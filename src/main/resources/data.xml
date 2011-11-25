@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<greetings>
+	<greeting id="g1">Hello DOM</greeting>
+	<greeting id="g2">Hello SAX</greeting>
+	<greeting id="g3">Hello StAX</greeting>
+</greetings>
