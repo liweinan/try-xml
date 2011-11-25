@@ -35,7 +35,7 @@ public class TryDom {
 			System.out.println("node type: " + node.getNodeType());
 			System.out.println("node value: " + node.getNodeType());
 			System.out.println("content: " + node.getTextContent());
-			System.out.println("ÑÑÑÑÑÑÑÑÑ");
+//			System.out.println("---");
 		}
 	}
 }
